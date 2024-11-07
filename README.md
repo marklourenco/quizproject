@@ -63,15 +63,25 @@ __________________
 # Example Output
 
 Welcome to the Simple Quiz Application!
+
 What is the capital of France?
+
 Your answer: Paris
+
 Correct!
+
 What is 2 + 2?
+
 Your answer: 4
+
 Correct!
+
 What is the chemical symbol for water?
+
 Your answer: H2O
+
 Correct!
+
 Your final score is: 3/3
 __________________
 # License
