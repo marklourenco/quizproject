@@ -84,5 +84,9 @@ Correct!
 
 Your final score is: 3/3
 __________________
+# GIFs
+![quiz gif](https://github.com/user-attachments/assets/4225e693-fdef-4555-a0ef-94d36f8ad385)
+![quizquestionsgif](https://github.com/user-attachments/assets/a79706a3-590d-4429-88ed-2da96885f99a)
+__________________
 # License
 This project is open source and available under the MIT License. See the LICENSE file for details.
