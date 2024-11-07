@@ -62,8 +62,6 @@ __________________
 __________________
 # Example Output
 
-kotlin
-
 Welcome to the Simple Quiz Application!
 What is the capital of France?
 Your answer: Paris
