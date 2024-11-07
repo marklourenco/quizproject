@@ -8,7 +8,7 @@ __________________
 - Compares user input to the correct answers.
 - Keeps track of the score.
 - If the quiz file is missing or empty, it generates a default set of sample questions.
-- __________________
+__________________
 # File Format
 The quiz questions and answers are stored in a text file (quiz_questions.txt). Each line in the file should have a question and its correct answer, separated by a pipe (|) symbol. Example:
 
