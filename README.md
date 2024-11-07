@@ -63,7 +63,7 @@ __________________
 # Example Output
 
 kotlin
-Copy code
+
 Welcome to the Simple Quiz Application!
 What is the capital of France?
 Your answer: Paris
