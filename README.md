@@ -12,9 +12,6 @@ __________________
 # File Format
 The quiz questions and answers are stored in a text file (quiz_questions.txt). Each line in the file should have a question and its correct answer, separated by a pipe (|) symbol. Example:
 
-csharp
-
-Copy code
 What is the capital of France?|Paris
 What is 2 + 2?|4
 What is the chemical symbol for water?|H2O
@@ -30,21 +27,23 @@ __________________
 - A text editor (such as Visual Studio or Visual Studio Code) for modifying the source code or quiz questions file.
 __________________
 # How to Run the Application
-Clone the repository:
+1. Clone the repository:
 
 bash
-Copy code
+
 git clone https://github.com/marklourenco/quizproject.git
-Open the project in Visual Studio or your preferred IDE.
 
-Build and run the application:
+2. Open the project in Visual Studio or your preferred IDE.
 
-- In Visual Studio, press Ctrl+F5 to start the application without debugging.
-- Alternatively, use the command line:
+3. Build and run the application:
+
+  - In Visual Studio, press Ctrl+F5 to start the application without debugging.
+  - Alternatively, use the command line:
 bash
-Copy code
+
 dotnet run
-Answer the questions in the console prompt. The program will tell you whether your answers are correct or incorrect and will display your final score at the end.
+
+4. Answer the questions in the console prompt. The program will tell you whether your answers are correct or incorrect and will display your final score at the end.
 __________________
 # Code Structure
 ## Classes and Methods
