@@ -97,5 +97,3 @@ This project is open source and available under the MIT License. See the [LICENS
 
 - Replace `yourusername` in the repository URL with your actual GitHub username.
 - Add a `LICENSE` file to your repository if you wish to specify the terms under which the code can be used or modified.
-
-This README file gives users a clear understanding of how to run and interact with your quiz application.
