@@ -35,7 +35,7 @@ If the `quiz_questions.txt` file is missing or empty, the application will autom
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/quizproject.git
+   git clone https://github.com/marklourenco/quizproject.git
    ```
 
 2. Open the project in Visual Studio or your preferred IDE.
